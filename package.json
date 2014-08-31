@@ -1,0 +1,14 @@
+{
+  "name": "sizeof",
+  "version": "1.0.0",
+  "description": "Calculates the size of Javascript object.",
+  "keywords": "size, sizeof, js, object, array, memory",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha -t test/"
+  },
+  "author": "Yin Li",
+  "repository": "git@github.com:lyroyce/sizeof.git",
+  "license": "MIT",
+  "readmeFilename": "README.md"
+}
